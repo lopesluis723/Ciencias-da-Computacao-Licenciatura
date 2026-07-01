@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlanoPremiumTop
+comment1.params=pontosAtuais
+comment1.target=int\ calcularPontosReproducao(int)
+comment2.params=
+comment2.target=java.lang.String\ getNomePlano()
+numComments=3

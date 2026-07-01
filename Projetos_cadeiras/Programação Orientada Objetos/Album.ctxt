@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Album
+comment1.params=nome\ artista
+comment1.target=Album(java.lang.String,\ java.lang.String)
+comment2.params=musica
+comment2.target=void\ adicionarMusica(Musica)
+numComments=3

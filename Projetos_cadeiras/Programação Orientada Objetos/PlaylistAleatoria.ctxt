@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlaylistAleatoria
+comment1.params=nome\ publica
+comment1.target=PlaylistAleatoria(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ reproduzirPlaylist()
+numComments=3

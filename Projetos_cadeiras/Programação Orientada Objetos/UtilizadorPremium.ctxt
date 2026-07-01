@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UtilizadorPremium
+comment1.params=nome\ email\ morada\ plano
+comment1.target=UtilizadorPremium(java.lang.String,\ java.lang.String,\ java.lang.String,\ PlanoSubscricao)
+comment2.params=musica
+comment2.target=void\ reproduzirMusica(Musica)
+comment3.params=playlist
+comment3.target=void\ criarPlaylist(Playlist)
+numComments=4

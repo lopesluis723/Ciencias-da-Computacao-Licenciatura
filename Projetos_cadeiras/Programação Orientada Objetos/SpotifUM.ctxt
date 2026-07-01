@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SpotifUM
+comment1.params=
+comment1.target=SpotifUM()
+comment2.params=musica
+comment2.target=void\ adicionarMusica(Musica)
+comment3.params=utilizador
+comment3.target=void\ adicionarUtilizador(Utilizador)
+comment4.params=album
+comment4.target=void\ adicionarAlbum(Album)
+comment5.params=playlist
+comment5.target=void\ adicionarPlaylist(Playlist)
+comment6.params=u\ m
+comment6.target=void\ reproduzirMusicaParaUtilizador(Utilizador,\ Musica)
+comment7.params=
+comment7.target=Musica\ getMusicaMaisReproduzida()
+numComments=8

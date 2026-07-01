@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PlaylistConstruida
+comment1.params=nome\ publica
+comment1.target=PlaylistConstruida(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ reproduzirPlaylist()
+comment3.params=
+comment3.target=void\ avancar()
+comment4.params=
+comment4.target=void\ retroceder()
+numComments=5

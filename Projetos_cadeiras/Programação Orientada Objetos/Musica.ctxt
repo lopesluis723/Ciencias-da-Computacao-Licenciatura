@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Musica
+comment1.params=nome\ interprete\ editora\ letra\ linhasMusicais\ genero\ duracaoSegundos\ album
+comment1.target=Musica(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.List,\ java.lang.String,\ int,\ Album)
+comment2.params=
+comment2.target=void\ reproduzir()
+numComments=3
